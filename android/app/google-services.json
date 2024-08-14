@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501407060564",
+    "project_id": "ytchat-37c47",
+    "storage_bucket": "ytchat-37c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501407060564:android:11f57ff1ad5993c66793c1",
+        "android_client_info": {
+          "package_name": "com.example.minimal_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLuCA0QxvlJqF5OivnU6niRY6xOicQ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
