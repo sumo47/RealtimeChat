@@ -1,4 +1,3 @@
-```markdown
 # Minimal Chat App
 
 A real-time chat application built with Flutter and Firebase. This app allows users to communicate instantly with each other, supporting features like authentication, real-time messaging, dark/light mode, and more.
