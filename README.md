@@ -31,6 +31,8 @@ A real-time chat application built with Flutter and Firebase. This app allows us
 <!-- Add screenshots of your app here -->
 <p align="center">
   <img src="screenshots/login.png" alt="Login Screen" width="200">
+  <img src="screenshots/home.png" alt="Login Screen" width="200">
+  <img src="screenshots/drawer.png" alt="Login Screen" width="200">
   <img src="screenshots/chat.png" alt="Chat Screen" width="200">
   <img src="screenshots/settings.png" alt="Settings Screen" width="200">
 </p>
