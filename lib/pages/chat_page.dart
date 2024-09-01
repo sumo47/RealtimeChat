@@ -131,6 +131,7 @@ class ChatPage extends StatelessWidget {
             margin: const EdgeInsets.only(right: 25),
             child: IconButton(
               onPressed: sendMessage,
+              tooltip: "Send",
               icon: const Icon(Icons.arrow_upward),
             ),
           )
